@@ -21,9 +21,9 @@
     "ABSOLUTES": [
         "100008907121641"
     ],
-    "NAME": "Xavia",
-    "PREFIX": "x",
-    "timezone": "Asia/Ho_Chi_Minh",
+    "NAME": "ZERODAY",
+    "PREFIX": "-",
+    "timezone": "Asia/Dhaka",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
 }
