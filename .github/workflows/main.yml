@@ -1,5 +1,0 @@
-            - name: git clone shell shell action
-  # You may pin to the exact commit or the version.
-  # uses: RekGRpth/git-clone-shell-action@103bb24e09aba6b594c6861d892f2be9a06741f0
-  uses: RekGRpth/git-clone-shell-action@v1
-          
